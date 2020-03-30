@@ -1,0 +1,6 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  UDPdump.c
+G:\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(169,18): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+G:\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(169,18): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+G:\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(169,18): message : 缺失的可变参数 1 为格式字符串“%s”所需
+  UDPdump.vcxproj -> G:\WpdPack_4_1_2\WpdPack\Examples-pcap\\Debug\x86\UDPdump.exe
